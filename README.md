@@ -1,6 +1,7 @@
 ## Algorithms_linkedIn_Course
-# This is for the linkedIn course: [Course Certificate](https://www.linkedin.com/learning/certificates/0c5e5a7aaf9d0f5d3de407579fc5aa0411aa5d484074b70fc2422806a030f534?u=60693444) 
+# This is for the linkedIn course:
 # Programming Foundations: Algorithms.
+[Course Certificate](https://www.linkedin.com/learning/certificates/0c5e5a7aaf9d0f5d3de407579fc5aa0411aa5d484074b70fc2422806a030f534?u=60693444) 
 #### Excersises are all in python.  
 
 ### Algorhims Characteristics:
