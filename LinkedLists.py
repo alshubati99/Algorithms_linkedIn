@@ -1,0 +1,10 @@
+stack=[]
+stack.append(1)
+stack.append(2)
+stack.append(3)
+stack.append(5)
+stack.append(6)
+print(stack)
+x= stack.pop()
+print(x)
+print(stack)
