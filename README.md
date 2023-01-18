@@ -1,14 +1,13 @@
 ## Algorithms_linkedIn_Course
-
-# This is the linkedIn course: 
+# This is the linkedIn course: [Course Certificate](https://www.linkedin.com/learning/certificates/0c5e5a7aaf9d0f5d3de407579fc5aa0411aa5d484074b70fc2422806a030f534?u=60693444) 
 # Programming Foundations: Algorithms.
 #### Excersises are all in python.  
-------------------------------
+
 ### Algorhims Characteristics:
 - Space and time complexity. 
 - Input, output
 - Classification: serial/ parallel, exact/ approximate, deterministic/non-deterministic
-------------------------------
+
 ### Common Algorithms: 
 - Search Algorithms
 - Sorting Algorithms.
@@ -20,7 +19,7 @@
 - a > b divide a by b. 
 - if remainder is 0 stop so GCD is b 
 - otherwise set a to b and b to remainder and repeat until r is 0. 
-----------------------------------
+
 ### measure how algorithm responds to dataset size: 
 - Big-O notation:order of operation, usually describes worst case senaroi. 
 ### big-O terms: 
@@ -29,7 +28,7 @@
 - O(n): linear time=> searching an unsorted array for a specific value.  
 - O(nlogn): log-linear=> heap sort and merge sort.  
 - O(n^2): Quadratic=> not good like bubble sort, selection sort, insertion sort. 
----------------------------------
+
 ## Data Structures: 
 - Used to organize data so it can be processed. 
 ### Common Data Structures:
@@ -74,7 +73,7 @@
 - Hash tables are typically very fast. 
 - For small dataset, array are usually more efficient. 
 - Hash tables don't enter enteries in predictible way. 
-------------------------------------
+
 ### Recursion: 
 - A function calls itself. 
 - Recursive functions terminates using breaking conditions which prevents infinte calls. 
