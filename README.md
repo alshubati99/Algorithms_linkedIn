@@ -1,7 +1,8 @@
-# Algorithms_linkedIn_Course
+## Algorithms_linkedIn_Course
 
-# This is the linkedIn course: Programming Foundations: Algorithms.
-# Excersises are all in python.  
+# This is the linkedIn course: 
+# Programming Foundations: Algorithms.
+#### Excersises are all in python.  
 ------------------------------
 ### Algorhims Characteristics:
 - Space and time complexity. 
