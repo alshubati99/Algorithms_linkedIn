@@ -1,5 +1,5 @@
 # Programming Foundations: Algorithms
-# LinkedIn Course
+# LinkedIn Course, part of [Become a Programmer](https://github.com/alshubati99/Become-a-Programmer) Learning Path. 
 # [*Course Certificate*](https://www.linkedin.com/learning/certificates/0c5e5a7aaf9d0f5d3de407579fc5aa0411aa5d484074b70fc2422806a030f534?u=60693444) 
 #### Excersises are all in python.  
 
